@@ -1,6 +1,6 @@
 # Домашка 1 — Clash of Code
 
-20 побед на C++. [Все скриншоты одним PDF](clash_of_code_20_wins.pdf), исходные изображения — в папке [screenshots](screenshots/).
+20 побед на C++. [Все скриншоты одним PDF](clash_of_code_20_wins.pdf), исходные изображения в папке [screenshots](screenshots/).
 
 | № | Отчёт | Скриншот |
 | --- | --- | --- |
