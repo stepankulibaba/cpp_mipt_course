@@ -4,6 +4,8 @@
 
 using Operation = std::function<int(int, int)>;
 
+Operation withLogging(Operation operation);
+
 class Calculator {
 public:
     explicit Calculator(Operation operation);

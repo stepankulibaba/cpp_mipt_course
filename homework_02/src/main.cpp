@@ -16,4 +16,12 @@ int main() {
 
     calculator.setOperation(multiply);
     std::cout << "Multiplication: " << calculator.calculate(5, 3) << '\n';
+
+    std::cout << "Addition with logging:\n";
+    calculator.setOperation(withLogging(add));
+    calculator.calculate(5, 3);
+
+    std::cout << "Multiplication with logging:\n";
+    calculator.setOperation(withLogging(multiply));
+    calculator.calculate(5, 3);
 }
