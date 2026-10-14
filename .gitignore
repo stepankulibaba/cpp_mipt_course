@@ -1,2 +1,9 @@
 *.exe
 homework_02/build/
+**/build/
+*.o
+*.obj
+*.out
+.vscode/
+.idea/
+.DS_Store
